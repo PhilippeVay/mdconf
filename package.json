@@ -1,5 +1,5 @@
 {
-  "name": "mdconf",
+  "name": "@philippevay/mdconf",
   "version": "0.0.5",
   "description": "Markdown configuration - fork from @tj and @abdulhannanali",
   "keywords": [
