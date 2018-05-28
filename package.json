@@ -1,7 +1,7 @@
 {
   "name": "mdconf",
-  "version": "0.0.2",
-  "description": "Markdown configuration",
+  "version": "0.0.5",
+  "description": "Markdown configuration - fork from @tj and @abdulhannanali",
   "keywords": [
     "conf",
     "configuration",
@@ -11,10 +11,10 @@
   "author": "TJ Holowaychuk <tj@vision-media.ca>",
   "repository": {
     "type": "git",
-    "url": "git://github.com/tj/mdconf.git"
+    "url": "git://github.com/PhilippeVay/mdconf.git"
   },
   "dependencies": {
-    "marked": "^0.3.6"
+    "marked": "^0.4.0"
   },
   "devDependencies": {
     "chai": "^4.1.2",
